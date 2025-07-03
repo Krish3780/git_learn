@@ -1,4 +1,4 @@
 file for master code
-checking commits number pending
-
 MASTER CODE: add master code here
+
+Master CODE: more code added here
