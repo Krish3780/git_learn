@@ -1,1 +1,2 @@
 adding some information
+more text is added to git_newfile.txt
